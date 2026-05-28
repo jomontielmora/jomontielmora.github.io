@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+::: {style="max-width:750px; margin:90px auto 0 auto; text-align:center;"}
+
+# Curriculum Vitae {style="font-size:52px; color:#2F4F4F; margin-bottom:22px;"}
+
+<p style="font-size:1.08rem; line-height:1.8; color:#343a40; text-align:center; margin-bottom:32px;">
+You can download my full academic CV below. For collaborations, academic inquiries, or research-related communication, feel free to contact me.
+</p>
+
+::: {style="display:flex; justify-content:center; gap:18px; flex-wrap:wrap; margin-bottom:35px;"}
+
+[Download CV](files/CV_Jose_Montiel.pdf){target="_blank" style="display:inline-block; padding:13px 28px; background-color:#2F4F4F; color:white; text-decoration:none; border-radius:8px; font-weight:500;"}
+
+[Contact me](mailto:jomontiel2602@gmail.com?subject=Academic%20inquiry){style="display:inline-block; padding:13px 28px; background-color:transparent; color:#2F4F4F; text-decoration:none; border:2px solid #2F4F4F; border-radius:8px; font-weight:500;"}
+
+:::
+
+<p style="font-size:0.95rem; color:#5f6b6b; text-align:center; line-height:1.7;">
+Email:
+<a href="mailto:jomontiel2602@gmail.com" style="color:#2F4F4F; text-decoration:none;">jomontiel2602@gmail.com</a>
+<br>
+Alternative email:
+<a href="mailto:montiel_mora@fzp.czu.cz" style="color:#2F4F4F; text-decoration:none;">montiel_mora@fzp.czu.cz</a>
+</p>
+
+:::
