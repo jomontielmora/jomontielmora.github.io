@@ -4,13 +4,14 @@ project:
 website:
   title: "JRM"
   search: false
+  google-analytics: "G-HGDK549CZ5"
   navbar:
     left:
       - text: "About"
         href: about.html
       - text: "Publications"
         href: publications.html
-      - text: "cv"
+      - text: "CV"
         href: cv.html
 
 format:
