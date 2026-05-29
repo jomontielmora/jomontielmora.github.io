@@ -10,7 +10,7 @@ website:
         href: about.html
       - text: "Publications"
         href: publications.html
-      - text: "CV"
+      - text: "cv"
         href: cv.html
 
 format:
